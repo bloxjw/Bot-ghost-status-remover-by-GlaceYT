@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Eating brains. 🧠🧠🧠"];
+const statusMessages = ["Controlling devices."];
 
 
 let currentIndex = 0;
