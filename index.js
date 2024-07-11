@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to commands."];
+const statusMessages = ["Controlling Devices."];
 
 
 let currentIndex = 0;
